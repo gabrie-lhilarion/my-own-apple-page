@@ -1,26 +1,34 @@
-# Project Name
+# APPLE HOME PAGE
 
-> One paragraph statement about the project.
+> A realistic clone of Apple.com homepage
 
 ![screenshot](./screenshot.png)
 
-Additional description about the project and its features.
+A very realistic clone of Apple.com home page with well placed background images and a conspicuous navigation bar.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
+- W3 CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://adoring-babbage-94226c.netlify.com)
 
 
-## Getting Started
+# Getting Started
+To use it locally, you need to :
+1. Fork the repository to your GitHub account.
+2. Choose a local folder for the cloned files.
+3. Clone the repository to your local machine.
+4. Double click on 'index.html'.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+# Author
+
+**Gabrie Lhilarion**
 
 
-To get a local copy up and running follow these simple example steps.
+* Github: **[@gabrie-lhilarion](https://github.com/gabrie-lhilarion)**
+* Twitter: **[@gabrielDeman](https://www.twitter.com/gabrielDeman)**
+* Linkedin: **[linkedin](https://www.linkedin.com/in/gabrielhilarion/)**
