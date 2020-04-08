@@ -151,4 +151,68 @@ ul .search input {
     width: 100%;
     height: auto;
     border: solid 4px #fff;;
-} 
+}
+
+
+
+
+.info-container{
+   width: 80%;
+   margin: 30px auto;
+   height: auto;
+   min-width: 700px;
+}
+
+.big-text {
+   background-image: url(../images/big-what.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 50px;
+}
+
+
+.big-text {
+  display: block;
+   height: 50px;
+}
+
+.medium-text {
+background-image: url(../images/everyone.png);
+background-repeat: no-repeat;
+background-position: center;
+height: 100px;
+}
+
+.medium-text a{
+   display: block;
+   height: 100px;
+   }
+
+
+.small-text {
+background-image: url(../images/whatch-the-your-verse.png);
+background-repeat: no-repeat;
+background-position:  50% -90%;
+height: 100px;
+}
+
+.small-text a{
+ display: block;
+ height: 50px;
+}
+
+footer {
+width: 80%;
+margin: 20px auto 0px ;
+}
+
+.footer-top,.footer-top {
+   font-size: 0.6em;
+   text-align: center;
+}
+
+footer a {
+   display: inline-block;
+   margin: 1px;
+   text-decoration: none;;
+}
