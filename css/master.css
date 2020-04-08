@@ -50,13 +50,11 @@ width:104px;
     width: 104px;
 }
 
-
 a.logo{
     background-image: url(../images/link-text-bg.png);
     background-repeat: no-repeat;
     background-position: 50% -1.5%;
 }
-
 
 a.store{
     background-image: url(../images/link-text-bg.png);
@@ -100,8 +98,6 @@ a.support{
     background-position: 50% 102%;
 }
 
-
-
 .right {
     float:left;
     width:100px;
@@ -140,7 +136,6 @@ ul .search input {
     outline: none;
 }
 
-
 .floated-div .image-info {
     float:left;
     width:25%;
@@ -152,9 +147,6 @@ ul .search input {
     height: auto;
     border: solid 4px #fff;;
 }
-
-
-
 
 .info-container{
    width: 80%;
@@ -169,7 +161,6 @@ ul .search input {
    background-position: center;
    height: 50px;
 }
-
 
 .big-text {
   display: block;
@@ -187,7 +178,6 @@ height: 100px;
    display: block;
    height: 100px;
    }
-
 
 .small-text {
 background-image: url(../images/whatch-the-your-verse.png);
