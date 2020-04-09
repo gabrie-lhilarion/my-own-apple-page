@@ -1,0 +1,208 @@
+html,body,ul,li,p,div,nav{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+background-color: whitesmoke;
+}
+
+.wrapper{
+    background-image: url(../images/large_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 85%;
+    padding-top: 90px;
+    width: 100%;
+    height: 425px;
+    margin: auto;
+}
+
+.navbar{
+    width: 1000px;
+    background-color: #666;
+    border-radius: 4px;
+    height: 36px;
+    margin: 0px auto;
+ background-image: linear-gradient( #666 50%, rgba(46, 46, 56, 0.411) 50%);
+}
+
+.navbar ul {
+list-style: none;
+display: flex;
+background-image: url();
+}
+
+.navbar ul li{
+list-style: none;
+width:104px;
+}
+
+.navbar a {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    line-height: 36px;
+    cursor: pointer;
+    height: 36px;
+    border-right:solid 1px #333;
+    width: 104px;
+}
+
+a.logo{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% -1.5%;
+}
+
+a.store{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 13.5%;
+}
+
+a.mac{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 28%;
+}
+
+a.ipod{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 42%;
+}
+
+a.iphone{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 57%;
+}
+
+a.ipad{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 72%;
+}
+
+a.itunes{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 87%;
+}
+
+a.support{
+    background-image: url(../images/link-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 102%;
+}
+
+.right {
+    float:left;
+    width:100px;
+}
+
+.left{
+    color: white;
+    float: left;
+    width:25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    padding-top: 0px;;
+}
+
+.clear {
+    clear:both;
+    height: 0;
+}
+
+ul .search {
+    display: block;
+    border-radius: 10px;
+    border-top: solid 1.8px rgb(41, 39, 39);
+    border-bottom: solid 0.8px rgb(41, 39, 39);
+    margin: 3px 0 0 10px;
+    width: 140%;
+}
+
+ul .search input {
+    color: #fff;
+    display: block;
+    width: 115%;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.floated-div .image-info {
+    float:left;
+    width:25%;
+
+}
+
+.image-info img {
+    width: 100%;
+    height: auto;
+    border: solid 4px #fff;;
+}
+
+.info-container{
+   width: 80%;
+   margin: 30px auto;
+   height: auto;
+   min-width: 700px;
+}
+
+.big-text {
+   background-image: url(../images/big-what.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 50px;
+}
+
+.big-text {
+  display: block;
+   height: 50px;
+}
+
+.medium-text {
+background-image: url(../images/everyone.png);
+background-repeat: no-repeat;
+background-position: center;
+height: 100px;
+}
+
+.medium-text a{
+   display: block;
+   height: 100px;
+   }
+
+.small-text {
+background-image: url(../images/whatch-the-your-verse.png);
+background-repeat: no-repeat;
+background-position:  50% -90%;
+height: 100px;
+}
+
+.small-text a{
+ display: block;
+ height: 50px;
+}
+
+footer {
+width: 80%;
+margin: 20px auto 0px ;
+}
+
+.footer-top,.footer-top {
+   font-size: 0.6em;
+   text-align: center;
+}
+
+footer a {
+   display: inline-block;
+   margin: 1px;
+   text-decoration: none;;
+}
