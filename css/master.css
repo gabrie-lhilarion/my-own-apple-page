@@ -9,6 +9,7 @@ background-color: whitesmoke;
 
 .wrapper{
     background-image: url(../images/large_bg.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 85%;
     padding-top: 90px;
